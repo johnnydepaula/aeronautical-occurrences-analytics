@@ -1,0 +1,12 @@
+aeronautical-occurrences-analytics/
+├── aeronautical_occurrences_analytics
+│   ├── __init__.py
+│   ├── __main__.py
+│   ├── parser.py
+│   └── snake_case.py
+│
+├── data
+│   └──
+│
+├── README.md
+└── setup.py
