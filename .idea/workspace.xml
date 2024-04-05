@@ -7,7 +7,6 @@
     <list default="true" id="ea5b1f5c-3dff-480c-972e-b1fefd8b4f89" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/aeronautical_occurrences-analytics/aeronautical_occurrences_analytics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/aeronautical_occurrences-analytics/aeronautical_occurrences_analytics.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/directories_structure.txt" beforeDir="false" afterPath="$PROJECT_DIR$/directories_structure.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +75,8 @@
       <workItem from="1711352750203" duration="47000" />
       <workItem from="1711378160290" duration="11612000" />
       <workItem from="1711456197516" duration="9072000" />
-      <workItem from="1711553555143" duration="7001000" />
+      <workItem from="1711553555143" duration="7798000" />
+      <workItem from="1711567965920" duration="5028000" />
     </task>
     <servers />
   </component>
