@@ -1,12 +1,21 @@
 aeronautical-occurrences-analytics/
-├── aeronautical_occurrences_analytics
+├── aeronautical_occurrences_analytics/
 │   ├── __init__.py
 │   └── aeronautical_occurrences_analytics.ipynb
 │
-├── data
+├── data/
 │   ├── occurrences.html
 │   ├── occurrences.csv
 │   └── occurrences.json
 │
+├── s3-aeronautical-occurrences-bucket/  # S3bucket-like abstraction
+│   └── raw/
+│       ├── occurrences.html
+│       ├── occurrences.json
+│       └── occurrences.csv
+│
+├── database.db  # SQLite database
+│
 ├── README.md
+├── config.py
 └── setup.py
